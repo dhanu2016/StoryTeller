@@ -15,7 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".StoryDetails"></activity>
+        <activity android:name=".StoryDetails" />
+        <activity android:name=".Contributing" />
+        <activity android:name=".ReadStory"></activity>
     </application>
 
 </manifest>

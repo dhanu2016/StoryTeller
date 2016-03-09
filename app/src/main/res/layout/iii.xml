@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Dhanuka Anjana"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="12dp"
+        android:id="@+id/textView6" />
+
+    <View
+        android:id="@+id/SplitLine_hor1"
+        android:layout_width="match_parent"
+        android:layout_height= "0.1dp"
+        android:background="@color/grey"
+        android:layout_marginTop="12dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Asbar Ali"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="12dp"
+        android:id="@+id/textView10" />
+
+    <View
+        android:id="@+id/SplitLine_hor3"
+        android:layout_width="match_parent"
+        android:layout_height= "0.1dp"
+        android:background="@color/grey"
+        android:layout_marginTop="12dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Aravinda Wijewardhana"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="12dp"
+        android:id="@+id/textView11" />
+
+    <View
+        android:id="@+id/SplitLine_hor4"
+        android:layout_width="match_parent"
+        android:layout_height= "0.1dp"
+        android:background="@color/grey"
+        android:layout_marginTop="12dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Akila Madushan"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="12dp"
+        android:id="@+id/textView8" />
+
+    <View
+        android:id="@+id/SplitLine_hor2"
+        android:layout_width="match_parent"
+        android:layout_height= "0.1dp"
+        android:background="@color/grey"
+        android:layout_marginTop="12dp" />
+
+</LinearLayout>
